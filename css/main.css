@@ -192,9 +192,9 @@ blockquote p {
     width: 90%;
     color: #ffffff;
 }
-#Testimonials {
+/*#Testimonials {
     background-color: rgba(0,0,0,0.3);
-}
+}*/
 .testimonials blockquote:before {
     display: none;
 }
@@ -383,7 +383,7 @@ h5 {
 }
 .parallax1 p, .parallax1 h2, .parallax2 p, .parallax2 h2 { color: #ffffff; }
 .parallax2 {
-    background-image: url("../img/background9.jpg");
+    background-image: url("../img/background6.jpg");
     overflow: auto;
     padding: 80px 0;
     -webkit-background-size: cover;

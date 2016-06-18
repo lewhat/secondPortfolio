@@ -152,9 +152,11 @@
         //Video Wallpaper Settings - alter the URL's to your converted videos		
         $("#video_element").wallpaper({
             source: {
-                mp4: "videos/motoBW.mp4"
+                mp4: "videos/motoBw.mp4",
                 // mp4: "videos/clouds2.mp4",
+                ogg: "videos/motoBw.ogv",
                 // ogg: "videos/clouds2.ogv",
+                webm: "videos/motoBw.webm"
                 // webm: "videos/clouds2.webm"
             }
         });
